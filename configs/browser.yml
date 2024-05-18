@@ -1,4 +1,11 @@
 ---
+- name: "y"
+  fullName: "com.yandex.YandexBrowser"
+  description: "Yandex Browser"
+  path: "~/Library/Application Support/Yandex/YandexBrowser"
+  iconUrl: "yandex.png"
+  profileName: "Default"
+
 - name: "chrome"
   fullName: "com.google.Chrome"
   description: "Google Chrome"
